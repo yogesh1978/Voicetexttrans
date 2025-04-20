@@ -1,0 +1,24 @@
+{
+  "developerTools" : {
+    "excludeFileExtensions" : [ ".info", ".md", ".txt", ".json", ".yml" ],
+    "excludeFileNames" : [ ],
+    "vulnerabilityScanStatus" : false,
+    "performanceScanStatus" : false,
+    "addTestCaseStatus" : false,
+    "gitConnectStatus" : false,
+    "projectScanStatus" : false,
+    "dataPipelineScanStatus" : false,
+    "gitIssueStatus" : false,
+    "jiraIssueStatus" : false,
+    "customIssueStatus" : false,
+    "assistedFixDefectStatus" : false,
+    "defectFixStatus" : false,
+    "defectFixIssueType" : "",
+    "selectedDefectFixOption" : "",
+    "projectDiagramsStatus" : false,
+    "basicProjectScanStatus" : true,
+    "intermediateProjectScanStatus" : false,
+    "advanceProjectScanStatus" : false
+  },
+  "sasvaFeedbackStatus" : false
+}
